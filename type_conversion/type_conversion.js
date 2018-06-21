@@ -6,7 +6,8 @@ val = String(val);
 console.log(typeof val);
 
 //numeric conversion
-//it happens in mathematical functions/expressions automatically
+//it happens in mathematical functions/expressions /, *, and - automatically
+//...but not +
 console.log("6" * "2");
 console.log(typeof ("6" * "2"));
 //this automatic stuff doesn't happen for +, which is used for

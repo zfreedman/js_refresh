@@ -1,0 +1,23 @@
+{
+  "name": "js_refresh",
+  "version": "1.0.0",
+  "description": "JavaScript refresher repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfreedman/js_refresh.git"
+  },
+  "author": "zach freedman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfreedman/js_refresh/issues"
+  },
+  "homepage": "https://github.com/zfreedman/js_refresh#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}

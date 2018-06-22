@@ -4,6 +4,9 @@ module.exports = {
       "ecmaVersion": 2016
     },
     "rules": {
-      "quotes": [2, "double"]
+      "guard-for-in": 0,
+      "quotes": [2, "double"],
+      "no-new-object": 0,
+      "spaced-comment": [2, "never"]
     }
 };

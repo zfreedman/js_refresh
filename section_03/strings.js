@@ -14,10 +14,10 @@ console.log(`last ${alphabet[alphabet.length - 1]}`);
 
 //searching for substrings
 //this method returns first occurence's index
-console.log(alphabet.indexOf("cde"));
-console.log(alphabet.indexOf("xya"));
+console.log(alphabet.indexOf(`cde`));
+console.log(alphabet.indexOf(`xya`));
 //this method returns true or false
-console.log(alphabet.includes("bcd"));
+console.log(alphabet.includes(`bcd`));
 
 //getting substrings
 //substring
